@@ -20,8 +20,6 @@
  <p align="center">
       <a href="https://github.com/Anthonyogar?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Anthonyogar?color=B7ACE3&labelColor=512F92&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Anthonyogar?color=B7ACE3&labelColor=512F92&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://twitter.com/sir_travis_" target="blank"><img src="https://img.shields.io/twitter/follow/sir_travis_?logo=twitter&color=B7ACE3&labelColor=512F92&style=for-the-badge" alt="sir_travis_" /></a>
   <img src="https://komarev.com/ghpvc/?username=anthonyogar&label=Profile%20views&color=B7ACE3&labelColor=512F92&style=for-the-badge" alt="anthonyogar" /> 
    </p>
