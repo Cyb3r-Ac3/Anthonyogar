@@ -26,13 +26,13 @@
    
  #  
  
-- 🔭 I’m currently working on [Web Browser](https://github.com/Anthonyogar/Web-Browser)
+- 🔭 I’m currently working on **C**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anthonyogar](https://github.com/Anthonyogar)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Sofware Engineering**
 
 - 📫 How to reach me **anthonyogar61@gmail.com**
 
