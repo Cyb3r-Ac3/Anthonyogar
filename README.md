@@ -2,14 +2,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sofia+pro&weight=900&size=40&pause=1000&color=512F92&vCenter=true&width=1000&height=53&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Ogar+Odey%2C;A+passionate+backend+developer+from+Nigeria;And+also+an+experienced+UI%2FUX+Designer%2C;With+1%2Byears+of+coding%2C;and+5%2Byears+of+Designing+Beautiful+products" alt="Typing SVG" /></a>
 </p>
 
-**`Digital Craftsman (Developer/Designer/NFT_Creator)`**
+**`Digital Craftsman | I.T Consultant`**
 
-<h3 align="center">I'm an indie Backend developer and UI/UX Designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  I publish my designs on behance also.
+<h3 align="center">
 </h3>
 
 #
 
-<!-- #  Hi 👋, I'm Anthony, A passionate backend developer from Nigeria -->
+<!-- #  Hi 👋, I'm Anthony, A passionate Software Engineer from Planet Earth -->
 
 <p align="center">
   <img align="center"alt="Coding" width"300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -32,9 +32,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anthonyogar](https://github.com/Anthonyogar)
 
-- 💬 Ask me about **Sofware Engineering**
+- 💬 Ask me about **Computers and Networkings**
 
-- 📫 How to reach me **anthonyogar61@gmail.com**
+- 📫 How to reach me **anthonymarcos72@gmail.com**
 
 #
 
@@ -72,7 +72,8 @@
 
 <details>
  <summary><h2>👨‍💻 Anthony's Tech Journey</h2></summary>
-  I started my coding journey as a naive Real estate student with a passion to learn everything I could about this tech world - code, and designing And all the while, teaching myself "Python and UI/UX" with a dream to build my own app and server, but that soon got overshadowed by my desire to excel in Django. A desire that I am still pursuing, i just recently dropped out of my Real estate course to focus on computer science full time due too the stress i was facing in my department, Currently i dont't have permanent job but i usually get design gigs from small start-up's around my locality, my journey into tech was a self discovery experiment turn out i wasn't cut out for the cooperate world, But there's something that's always bothered me about my journey- abandoning my dream of building my own products that could be marketed on a large scale to work for other brands, but in the long run i know i'm still going to build those lovely ideas i put on my vision board 5 years ago.
+The state of the human race is at a crosspoint between reverse and forward motion, I believe it is a sacred calling for a selected few to contribute to the advancement and continual development of humankind and planet Earth through safer Hardware and more unrestricted Software (open source).
+-Kha1ifa
 
 #
 
