@@ -71,7 +71,7 @@
 #
 
 <details>
- <summary><h2>👨‍💻 Anthony's Tech Journey</h2></summary>
+ <summary><h2>👨‍💻 Ideology </h2></summary>
 The state of the human race is at a crosspoint between reverse and forward motion, I believe it is a sacred calling for a selected few to contribute to the advancement and continual development of humankind and planet Earth through safer Hardware and more unrestricted Software (open source).
 -Kha1ifa
 
