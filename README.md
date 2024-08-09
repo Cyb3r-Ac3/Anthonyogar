@@ -11,9 +11,6 @@
 
 <!-- #  Hi 👋, I'm Anthony, A passionate Software Engineer from Planet Earth -->
 
-<p align="center">
-  <img align="center"alt="Coding" width"300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-</p>
 
 #
 
@@ -43,10 +40,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=90&pause=1000&color=FFFFFF&background=512F92&center=true&vCenter=true&width=2000&height=150&lines=%22Shaping+The+World+One+Code+At+A+Time%22" alt="Typing SVG" /></a>
 </p>
-
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-
-#
 
 
 
